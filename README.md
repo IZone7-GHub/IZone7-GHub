@@ -1,4 +1,4 @@
-# Portafolio Técnico & Documentación - IZone7
+# Portafolio Técnico & Documentación
 
 Bienvenido a mi repositorio centralizado de procedimientos, laboratorios y configuraciones. Este espacio recopila mi stack técnico, prácticas de sistemas, desarrollo backend y ciberseguridad.
 
