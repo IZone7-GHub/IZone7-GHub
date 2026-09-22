@@ -1,5 +1,5 @@
 <div align="center">
-# Portafolio Técnico & Documentación
+## Portafolio Técnico & Documentación
 </div>
 
 ## Arquitectura del Repositorio
