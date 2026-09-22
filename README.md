@@ -5,12 +5,6 @@
 
 </div>
 
----
-
-> ** Nota de navegación:** Mantén presionado `Ctrl` (o `Cmd` en Mac) al hacer clic en los enlaces o videotutoriales para abrirlos en una pestaña nueva.
-
----
-
 ## Arquitectura del Repositorio
 
 | Directorio Temático | Descripción del Contenido | Acceso Rápido |
@@ -35,3 +29,9 @@
 <div align="center">
   <em>Desarrollado con dedicación y gestionado desde entornos Linux / Debian 13.</em>
 </div>
+
+---
+
+> ** Nota de navegación:** Mantén presionado `Ctrl` (o `Cmd` en Mac) al hacer clic en los enlaces o videotutoriales para abrirlos en una pestaña nueva.
+
+---
