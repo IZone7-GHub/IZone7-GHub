@@ -9,8 +9,8 @@
 | Directorio Temático | Descripción del Contenido | Acceso Rápido |
 | :--- | :--- | :--- |
 | **`01_Sistemas_Operativos/`** | Administración de Linux, Debian 13, gestión de paquetes y Bash. | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
-| **`02_Desarrollo_Web/`** | Proyectos, guías y buenas prácticas en PHP, Laravel y JavaScript. | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
-| **`03_Bases_de_Datos/`** | Modelado, consultas avanzadas y servidores (MariaDB, PostgreSQL, SQLite). | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
+| **`02_Desarrollo_Web/`** | Proyectos, guías y buenas prácticas en PHP, Laravel y JavaScript. | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/02_Desarrollo_Web/README.md) |
+| **`03_Bases_de_Datos/`** | Modelado, consultas avanzadas y servidores (MariaDB, PostgreSQL, SQLite). | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/03_Bases_de_Datos/README.md) |
 | **`04_DevOps_Contenedores/`** | Despliegue de servicios y aislamiento de entornos con Docker. | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
 | **`05_Ciberseguridad/`** | Laboratorios prácticos, análisis de vulnerabilidades y seguridad ofensiva. | [📂 Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
 
