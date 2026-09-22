@@ -1,22 +1,17 @@
 <div align="center">
 
-# 🚀 Portafolio Técnico & Documentación
+# Portafolio Técnico & Documentación
 ### Ingeniería de Sistemas | Automatización | Bases de Datos | Ciberseguridad
-
-[![Debian 13](https://img.shields.io/badge/OS-Debian%2013%20Trixie-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org)
-[![Bash](https://img.shields.io/badge/Shell-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash)
-[![Laravel](https://img.shields.io/badge/Backend-Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com)
-[![Docker](https://img.shields.io/badge/DevOps-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
 
 </div>
 
 ---
 
-> **💡 Nota de navegación:** Mantén presionado `Ctrl` (o `Cmd` en Mac) al hacer clic en los enlaces o videotutoriales para abrirlos en una pestaña nueva.
+> ** Nota de navegación:** Mantén presionado `Ctrl` (o `Cmd` en Mac) al hacer clic en los enlaces o videotutoriales para abrirlos en una pestaña nueva.
 
 ---
 
-## 📂 Arquitectura del Repositorio
+## Arquitectura del Repositorio
 
 | Directorio Temático | Descripción del Contenido | Acceso Rápido |
 | :--- | :--- | :--- |
@@ -28,7 +23,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico & Habilidades
+## Stack Tecnológico & Habilidades
 
 * **Sistemas & Terminal:** Debian 13 (Trixie), Kali Linux, Automatización de scripts con Bash.
 * **Desarrollo Backend:** PHP, Laravel, Frameworks web, JavaScript básico/intermedio, C.
