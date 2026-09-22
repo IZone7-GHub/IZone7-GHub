@@ -8,7 +8,7 @@
 
 | Directorio Temático | Descripción del Contenido | Acceso Rápido |
 | :--- | :--- | :--- |
-| **`01_Sistemas_Operativos/`** | Administración de Linux, Debian 13, gestión de paquetes y Bash. | [📖 Ver Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
+| **`01_Sistemas_Operativos/`** | Administración de Linux, Debian 13, gestión de paquetes y Bash. | [Ver Carpeta](https://github.com/IZone7-GHub/Debian/blob/main/01_Sistemas_Operativos/README.md) |
 | **`02_Desarrollo_Web/`** | Proyectos, guías y buenas prácticas en PHP, Laravel y JavaScript. | [📂 Ver carpeta](02_Desarrollo_Web/) |
 | **`03_Bases_de_Datos/`** | Modelado, consultas avanzadas y servidores (MariaDB, PostgreSQL, SQLite). | [📂 Ver carpeta](03_Bases_de_Datos/) |
 | **`04_DevOps_Contenedores/`** | Despliegue de servicios y aislamiento de entornos con Docker. | [📂 Ver carpeta](04_DevOps_Contenedores/) |
