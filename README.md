@@ -21,7 +21,7 @@
 * **Sistemas & Terminal:** Debian 13 (Trixie), Kali Linux, Automatización de scripts con Bash.
 * **Desarrollo Backend:** PHP, Laravel, Frameworks web, JavaScript básico/intermedio, C.
 * **Bases de Datos:** MariaDB, MySQL, PostgreSQL, SQLite, PhpMyAdmin, SQL avanzado (`JOIN`, consultas).
-* **Infraestructura:** Contenedorización con Docker, gestión de repositorios Git/GitHub.
+* **Infraestructura:** Docker, gestión de repositorios Git/GitHub.
 * **Seguridad Informática:** Pruebas de penetración (Pentesting), entornos virtuales VulnHub.
 
 ---
