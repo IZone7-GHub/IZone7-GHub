@@ -1,8 +1,5 @@
 <div align="center">
-
 # Portafolio Técnico & Documentación
-### Ingeniería de Sistemas | Automatización | Bases de Datos | Ciberseguridad
-
 </div>
 
 ## Arquitectura del Repositorio
